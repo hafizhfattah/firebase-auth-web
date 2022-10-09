@@ -1,6 +1,6 @@
 ### 📦 **Firebase Auth Web**
 
-Firebase Auth Project
+Firebase Auth Project.
 Made With ReactJS, NodeJS
 
 ### 🚀 **Getting Started**
